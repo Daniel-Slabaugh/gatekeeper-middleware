@@ -1,0 +1,23 @@
+{
+  "name": "gatekeeper-middleware",
+  "version": "1.0.0",
+  "description": "gatekeeper practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel-Slabaugh/gatekeeper-middleware.git"
+  },
+  "author": "Daniel Slabaugh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniel-Slabaugh/gatekeeper-middleware/issues"
+  },
+  "homepage": "https://github.com/Daniel-Slabaugh/gatekeeper-middleware#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
